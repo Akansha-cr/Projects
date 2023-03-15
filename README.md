@@ -1,6 +1,6 @@
 #IMAGE CLASSIFICATION<br>
 [Image Classification](https://lesion-detection.streamlit.app/Classification)<br>
-![zxcvbnm,](https://user-images.githubusercontent.com/73830381/225229521-8119e281-5c2b-4da4-bc68-7373bc2eb2bf.png)<br><br>
+![216281216-aab5df4b-c5b0-4845-a9c4-6df5730de602](https://user-images.githubusercontent.com/73830381/225242802-042c9bba-37c0-4ff7-bbd7-d3a995fd8e2e.png)<br><br>
 #STOCK PRICE PREDICTION<br>
 [Stock price prediction](https://akansha-cr-stock-price-prediction-main-opg3b8.streamlit.app/)<br>
 ![fgcvhjb](https://user-images.githubusercontent.com/73830381/225230860-11f42a3b-6d02-4898-a09b-605fb5c82733.png)<br><br>
