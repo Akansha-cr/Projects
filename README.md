@@ -4,7 +4,7 @@
 #STOCK PRICE PREDICTION<br>
 [Stock price prediction](https://akansha-cr-stock-price-prediction-main-opg3b8.streamlit.app/)<br>
 ![fgcvhjb](https://user-images.githubusercontent.com/73830381/225230860-11f42a3b-6d02-4898-a09b-605fb5c82733.png)<br><br>
-#HOUSE PRICE PREDICTION<br>
+#HOUSE PRICE PREDICTION<br> *This is currently under development, i need to work on this, will update it soon*.
 [House price prediction](https://akansha-cr-house-price-prediction-app-hg00wy.streamlit.app/)<br>
 ![Screenshot 2023-03-15 121059](https://user-images.githubusercontent.com/73830381/225227786-1ab94c7a-3f6f-4a2c-b714-2c612aac1160.png)<br><br>
 #MOVIE RECOMMENDATION SYSTEM<br>
